@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1655505943 source:c:\users\enzog\desktop\utn\generala\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"juego1.h"
+
+1655503030 c:\users\enzog\desktop\utn\generala\generala\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1655506131 c:\users\enzog\desktop\utn\generala\generala\juego1.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+
+1657565232 source:c:\users\user\documents\proyecto lab\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"juego1.h"
+	"Combinaciones.h"
+	"rlutil.h"
+
+1657564698 c:\users\user\documents\proyecto lab\generala\funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+
+1657565538 c:\users\user\documents\proyecto lab\generala\juego1.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"Combinaciones.h"
+
+1657123137 c:\users\user\documents\proyecto lab\generala\combinaciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"juego1.h"
+
+1656370938 source:c:\users\tomas\onedrive\escritorio\projecto generala\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"juego1.h"
+	"Combinaciones.h"
+	"JugadasDisponibles.h"
+
+1656366807 c:\users\tomas\onedrive\escritorio\projecto generala\generala\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1656372186 c:\users\tomas\onedrive\escritorio\projecto generala\generala\juego1.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"juego1.h"
+	"Combinaciones.h"
+	"JugadasDisponibles.h"
+
+1656371636 c:\users\tomas\onedrive\escritorio\projecto generala\generala\combinaciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"juego1.h"
+	"JugadasDisponibles.h"
+
+1656370946 c:\users\tomas\onedrive\escritorio\projecto generala\generala\jugadasdisponibles.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"funciones.h"
+	"juego1.h"
+	"Combinaciones.h"
+
+1656934455 source:c:\users\enzog\desktop\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"juego1.h"
+	"Combinaciones.h"
+
+1656938175 c:\users\enzog\desktop\generala\funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1656938175 c:\users\enzog\desktop\generala\juego1.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"Combinaciones.h"
+
+1656774067 c:\users\enzog\desktop\generala\combinaciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"juego1.h"
+
+1657036073 source:c:\users\tomas\onedrive\escritorio\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"juego1.h"
+	"Combinaciones.h"
+	"rlutil.h"
+
+1657036019 c:\users\tomas\onedrive\escritorio\generala\funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+
+1657036711 c:\users\tomas\onedrive\escritorio\generala\juego1.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"Combinaciones.h"
+
+1656774067 c:\users\tomas\onedrive\escritorio\generala\combinaciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"juego1.h"
+
+1657027956 c:\users\tomas\onedrive\escritorio\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657027956 c:\users\user\documents\proyecto lab\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
